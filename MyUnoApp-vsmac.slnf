@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "MyUnoApp.sln",
+    "projects": [
+		"MyUnoApp.Shared\\MyUnoApp.Shared.shproj",
+
+		"MyUnoApp.Mobile\\MyUnoApp.Mobile.csproj",
+
+		"MyUnoApp.Wasm\\MyUnoApp.Wasm.csproj",
+
+		"MyUnoApp.Skia.Gtk\\MyUnoApp.Skia.Gtk.csproj",
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+namespace MyUnoApp.Skia.Gtk
+{
+}
